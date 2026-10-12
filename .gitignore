@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.part.mp4
+命令行错误.txt
+work/
+dist/
+.cache/
+__pycache__/
+*.pyc

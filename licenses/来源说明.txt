@@ -1,0 +1,16 @@
+本软件通过独立进程调用 FFmpeg / FFprobe；它们的许可与主程序的 MIT 许可分开。
+
+构建版本：9.0.2-essentials_build-www.gyan.dev（64 位 Windows）
+构建提供者：https://www.gyan.dev/ffmpeg/builds/
+FFmpeg 官方下载入口：https://ffmpeg.org/download.html
+二进制发布：https://github.com/GyanD/codexffmpeg/releases/tag/9.0.2
+对应 FFmpeg 源码：https://github.com/FFmpeg/FFmpeg/commit/946fcce07b
+源代码归档：https://github.com/FFmpeg/FFmpeg/archive/946fcce07b.tar.gz
+
+原始 ffmpeg-9.0.2-essentials_build.zip 的 SHA-256：
+60f467265b1e312373dbcd92200c2618a74850f98d3d078e94296bb3fa2047ba
+已与构建提供者发布的 SHA-256 对比验证。
+
+LICENSE 是构建随附的 GPL v3 许可证。
+README.txt 包含源码链接、完整构建配置、编解码器及外部库列表。
+第三方源码、构建和许可信息请参阅构建提供者及对应项目。
